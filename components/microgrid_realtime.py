@@ -912,3 +912,7 @@ if __name__ == "__main__":
     }
 
     render_neon_microgrid(test_state)
+
+
+# Alias for app.py compatibility
+render_realtime_microgrid = render_neon_microgrid
