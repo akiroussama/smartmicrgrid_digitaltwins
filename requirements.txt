@@ -1,0 +1,15 @@
+# MH-U-CBF Digital Twin - Standalone Deployment
+# ==============================================
+# Minimal dependencies for Streamlit Cloud
+
+# Core Framework
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.18.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Optional: for extended charts
+pandas>=2.0.0
